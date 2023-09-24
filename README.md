@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **juanjosepro/juanjosepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hola 👋, soy JuanJose</h1>
 <h3 align="center">Un apascionado Desarrollador Web de Perú</h3>
 
