@@ -1,4 +1,4 @@
-![](https://tokioschool.pt/wp-content/uploads/2021/09/o-que-e-um-programador-java.jpg)
+<!--- ![](https://tokioschool.pt/wp-content/uploads/2021/09/o-que-e-um-programador-java.jpg) -->
 
 <h1 align="center">Hola, soy <strong>Juan Jose</strong></h1>
 <p align="center"><em>Desarrollador Web</em></p>
